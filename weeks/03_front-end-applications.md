@@ -1,7 +1,7 @@
 # WEEK 3: FRONT-END APPLICATIONS
 
 ## SLIDES
-* ↳ [Link to Week 3 Slides: Front end Applications](https://docs.google.com/presentation/d/1-9kbQDcl0duUWwcd9erzYZYUeruRkkXwjdc2RH8qJqQ/edit#slide=id.g6e9dd1145a_0_51)
+* ↳ [Link to Week 3 Slides: Front end Applications]()
 
 ## ABOUT
 This week, we will be exploring JavaScript as it relates to adding interactivity to our web applications. JavaScript can be and is used to, among many things, update the content of DOM elements, to dynamically apply CSS styles that allow for better user experience and interaction design, and to send and retrieve data from external APIs that can affect what information is shown on the page. 
