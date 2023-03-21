@@ -55,7 +55,3 @@ You must have a `README.md` that contains:
 
 **AFTER**:
 1. You will receive feedback and comments on your respective grading Documents. 
-
-
-<s>On March 8th, there will be in-class presentations. They will be **6 minutes** each, plus **2 minutes** for feedback and questions. They will be timed so that we can get through everyone!
-</s>
