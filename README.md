@@ -1,11 +1,14 @@
 # Dynamic Web Development - ITPG-GT.2577.1
 ## Spring 2023
 
-Instructors: Ahmad Arshad
+Instructor: Ahmad Arshad
+
 Email: ahmad.arshad@nyu.edu
 
-Live Sessions: Wed 12:10PM-2:40PM EST 
+Live Sessions: Wed 12:10PM-2:40PM EST
+
 Dates : 03/22/2023 - 05/03/2023
+
 Location : 370 Jay St, Room 409 Loc: Brooklyn Campus
 
 ## DESCRIPTION
