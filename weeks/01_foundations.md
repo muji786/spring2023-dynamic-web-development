@@ -191,7 +191,7 @@ The most widely used version control software is **Git**. In this class we will 
 
 Once we're ready to make our web application public, we can deploy it. This is different from putting your code on GitHub, as this is a site for looking at the course code, versus the application that is created when the source code is executed. For this class we will be using [Glitch](https://glitch.com/) and later on [Heroku](https://www.heroku.com/).
 
-See the [guide to importing a git repository to Glitch](https://help-center.glitch.me/help/import-git/) for a guide to deployment.
+See the [guide to importing a git repository to Glitch](https://help.glitch.com/kb/article/20-importing-code-from-github/) for a guide to deployment.
 
 **NOTE**: Glitch is also an in browser code editor (like the [p5.js Web Editor](https://editor.p5js.org/)). However, for this class we will be writing all of our code locally, then pushing to GitHub, then importing your GitHub repository to Glitch.
 
