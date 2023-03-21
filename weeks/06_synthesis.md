@@ -1,7 +1,7 @@
 # Week 06: Synthesis
 
 ## Slides
-* ↳ [Link to Week 6 Slides: Synthesis](https://docs.google.com/presentation/d/19a66oNBWVclq1e7-RIYGYUdPnBtjeW-mUVPnj5SSOnw)
+* ↳ [Link to Week 6 Slides: Synthesis]()
 
 
 ## About
