@@ -117,7 +117,7 @@ Topics we are not covering, but are of importance:
 
 Learn by doing with the [Back-End Foundations Workbook](../guides/backend-foundations-guide.md). Here you will encounter a set of guided challenges that will introduce you to the basic building blocks necessary to build a basic web server and API. 
 
-* ↳ [Back-End Foundations Workbook](https://github.com/muji786/spring2022-dynamic-web-development/back-end-foundations-workbook)
+* ↳ [Back-End Foundations Workbook](https://github.com/muji786/spring2023-dynamic-web-development/back-end-foundations-workbook)
 
 ***
 ***

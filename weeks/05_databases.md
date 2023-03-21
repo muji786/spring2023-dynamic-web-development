@@ -110,9 +110,9 @@ Students will walk away with a deeper understanding of:
 * ↳ [MongoDB Atlas Setup](../guides/database-services-guide.md#mongodb-atlas)
 
 ### Workbook
-Learn by doing with the [Databases Workbook](https://github.com/muji786/spring2022-dynamic-web-development/databases-workbook). Here you will encounter a set of guided challenges that will introduce you to the basic building blocks necessary to build a basic web server and API. 
+Learn by doing with the [Databases Workbook](https://github.com/muji786/spring2023-dynamic-web-development/databases-workbook). Here you will encounter a set of guided challenges that will introduce you to the basic building blocks necessary to build a basic web server and API. 
 
-* ↳ [Database Foundations Workbook](https://github.com/muji786/spring2022-dynamic-web-development/databases-workbook)
+* ↳ [Database Foundations Workbook](https://github.com/muji786/spring2023-dynamic-web-development/databases-workbook)
 
 ***
 ***

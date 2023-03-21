@@ -9,7 +9,7 @@
 This week, we will be putting all of the pieces together: `design → front end development → back end development → databases → deployment`.
 
 ## Guides
-* [Databases Workbook](https://github.com/muji786/spring2022-dynamic-web-development/databases-workbook)
+* [Databases Workbook](https://github.com/muji786/spring2023-dynamic-web-development/databases-workbook)
 * [MongoDB Atlas Guide](../guides/database-services-guide.md)
 * [Databases Guide](../guides/databases-guide.md)
 * [MongoDB Guide](../guides/mongodb-guide.md)
