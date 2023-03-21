@@ -3,7 +3,7 @@
 * [Accessibility Talk](https://reactnewyork.com/#videos)
 
 ## SLIDES
-* ↳ [Link to Week 4 Slides: Back end Foundations](https://docs.google.com/presentation/d/1HK9UJ4CubkZ6kEC9_nhK1O5YDa9xbTQsGT58e04UYsQ/edit?usp=sharing)
+* ↳ [Link to Week 4 Slides: Back end Foundations]()
 
 ## ABOUT
 
