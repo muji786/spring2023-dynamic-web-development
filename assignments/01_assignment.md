@@ -95,7 +95,8 @@ Some examples of nice readme:
 ## Submission
 ### Details:
 
-Due Date: week 2 - Feb 3
+Due Date: week 2 - March 29th
+
 Your assignment must be turned in BEFORE midnight on Wednesday, the day before class, March 29th.
 
 ## Helpful Tips & References:
