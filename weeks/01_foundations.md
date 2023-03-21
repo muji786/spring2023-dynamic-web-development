@@ -1,7 +1,8 @@
 # Week 01: Web Foundations
 
 ## Slides
-* ↳ [Link to Week 1 Slides: Web Foundations](https://docs.google.com/presentation/d/1hYuDKELjgdc4m7p2hI639QSztqdnD9vBbT6VN0PU8MQ/edit#slide=id.g6e0af0419f_0_53)
+* ↳ [Link to Week 1 Slides: Web Foundations](https://docs.google.com/presentation/d/1PMlDtBtqKWatnZeD84fY2loDfpqMxQVU_w26ywoOo7A/)
+
 
 ## About
 This week, we will be starting out journey as developers of the web. 
