@@ -1,6 +1,8 @@
 # Dynamic Web Development - ITPG-GT.2577.1
 ## Spring 2023
 
+# Welcome to 7 weeks of development
+
 Instructor: Ahmad Arshad
 
 Email: ahmad.arshad@nyu.edu
