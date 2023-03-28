@@ -2,7 +2,7 @@
 
 
 ## Slides
-* ↳ [Link to Week 2 Slides: Front end Foundations]()
+* ↳ [Link to Week 2 Slides: Front end Foundations](https://docs.google.com/presentation/d/1Rh2g8hWUYqK9cglkcXtME0cNCppUr3hdW2C24zMwWTU)
 
 
 ## About
@@ -142,7 +142,7 @@ Topics we are not covering, but are of importance:
 
 ## Studio
 
-Interactive / Live Coding studio time. Following along with [Slides](https://docs.google.com/presentation/d/1SmikZdPLX_ZVAhSsKsQ4zNMAbewkBVSCZCzQqXCM6Ws/edit?usp=sharing). 
+Interactive / Live Coding studio time. Following along with [Slides] (https://docs.google.com/presentation/d/1Rh2g8hWUYqK9cglkcXtME0cNCppUr3hdW2C24zMwWTU) 
 
 The studio for today will follow along with this exercise: [Frontend foundation Workbook](https://github.com/itp-dwd/front-end-foundations-workbook)
 
