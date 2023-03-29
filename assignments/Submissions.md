@@ -13,3 +13,5 @@ vania: [deploy](https://pickings.glitch.me/) | [code](https://glitch.com/edit/#!
 [Lily](https://github.com/LilYuuu/dynamic-web-dev)
 
 Neeti [deploy](https://pretty-quaint-sodalite.glitch.me/) | [code](https://github.com/neeti-s/DWD-Week-1)
+
+[Gracy](https://protective-meadow-socks.glitch.me/)
