@@ -20,4 +20,4 @@ Neeti [deploy](https://pretty-quaint-sodalite.glitch.me/) | [code](https://githu
 
 Briana Jones[HW](https://github.com/bingnaa/bingnaa.github.io/tree/main/memeWebsite)
 
-Herui Chen (https://glitch.com/~valiant-held-aurora) [code] (https://github.com/metadata0/dwd-Week01)
+[Herui Chen](https://glitch.com/~valiant-held-aurora) [code](https://github.com/metadata0/dwd-Week01)
