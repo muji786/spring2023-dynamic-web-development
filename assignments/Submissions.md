@@ -1,4 +1,3 @@
 ## Assignment 1
 
-angela 
-[https://github.com/ayzcrem/coolnetartproject]
+[angela](https://github.com/ayzcrem/coolnetartproject)
