@@ -7,3 +7,5 @@
 vania: [deploy](https://pickings.glitch.me/) | [code](https://glitch.com/edit/#!/pickings)
 
 [Xiaoran](https://github.com/Ran9929/S23-DynamicWebDev-Assignment01)
+
+[Mathew's page](https://tar-little-stick.glitch.me/) [and the README/github](https://github.com/mathewolson/CoolNetArtProject)
