@@ -26,4 +26,4 @@ Briana Jones[HW](https://github.com/bingnaa/bingnaa.github.io/tree/main/memeWebs
 
 ## Assignment 2
 
-[Briana code](https://github.com/bingnaa/bingnaa.github.io/tree/main/swissposter)
+[Briana](https://github.com/bingnaa/bingnaa.github.io/tree/main/swissposter))
