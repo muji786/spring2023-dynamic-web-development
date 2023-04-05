@@ -44,5 +44,5 @@ Neeti [deploy](https://sedate-lily-muskox.glitch.me/)
 
 [Gracy](https://i-love-pasta.glitch.me/)
 
-[Wendy](https://debonair-functional-shoulder.glitch.me/)
+[Wendy](https://complete-loud-atlasaurus.glitch.me/DWDWeek2.html)
 
