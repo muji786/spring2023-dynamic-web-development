@@ -40,5 +40,5 @@ angela [glitch](https://rune-almondine-dietician.glitch.me) [readme](https://git
 
 [HERUI 1](https://spiced-conscious-people.glitch.me/Poster3.html) [HERUI 2](https://spiced-conscious-people.glitch.me/Minimal.html)
 
-Neeti [deploy](https://pretty-quaint-sodalite.glitch.me/) | [code](https://github.com/neeti-s/DWD-Week-1)
+Neeti [deploy](https://sedate-lily-muskox.glitch.me/)
 
