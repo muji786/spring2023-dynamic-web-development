@@ -52,4 +52,4 @@ Neeti [deploy](https://sedate-lily-muskox.glitch.me/)
 
 Stella (https://ultra-unruly-lycra.glitch.me)
 
-[Peter] (https://majestic-whispering-ounce.glitch.me/)
+[Peter](https://majestic-whispering-ounce.glitch.me/)
