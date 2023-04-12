@@ -49,3 +49,4 @@ Neeti [deploy](https://sedate-lily-muskox.glitch.me/)
 ## Assignment 3
 
 [Briana](https://github.com/bingnaa/bingnaa.github.io/tree/main/weather))
+Stella (https://ultra-unruly-lycra.glitch.me)
