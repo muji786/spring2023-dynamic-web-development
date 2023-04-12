@@ -46,3 +46,6 @@ Neeti [deploy](https://sedate-lily-muskox.glitch.me/)
 
 [Wendy](https://complete-loud-atlasaurus.glitch.me)
 
+## Assignment 3
+
+[Briana](https://github.com/bingnaa/bingnaa.github.io/tree/main/weather))
