@@ -1,7 +1,7 @@
 # Week 05: Databases
 
 ## SLIDES
-* ↳ [Link to Week 5 Slides: Databases]()
+* ↳ [Link to Week 5 Slides: Databases](https://docs.google.com/presentation/d/1NXcBsQkESTozDhiIG3NEp-Pj90pV-YdQ0IgvG2Ix-MM/)
 
 ## ABOUT
 
@@ -132,8 +132,7 @@ via:
 * https://github.com/ITPNYU/ICM-2019-Code/blob/master/weeks/01_intro.md
 * https://github.com/eyebeam/curriculum/blob/master/TEMPLATE.md
 -->
-
-<!-- 
+ 
 ### Lecture
 * Databases
   * Persisting data with a NoSQL database (as opposed to SQL databases like PostGres or SQLite)
@@ -147,5 +146,4 @@ via:
 ### Assignment
 * Building on your previous assignment, add persistent data using a database.
 * (Using templates?)
-* Deploy to Heroku
- -->
+* Deploy to Heroku or another service
