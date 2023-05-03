@@ -85,5 +85,4 @@ Neeti [code](https://github.com/neeti-s/can-you-hear-me)
 
 [Lily](https://github.com/LilYuuu/dynamic-web-dev)
 
-[Bosung](https://catkin-able-diadem.glitch.me/Poem_Collage/)
-
+[Neeti] (https://a-home-page.glitch.me/)
