@@ -79,9 +79,9 @@ Neeti [code](https://github.com/neeti-s/can-you-hear-me)
 
 [angela](https://stoptellingmewhattodo.mom)
 
-[Briana] (https://github.com/bingnaa/bingnaa.github.io/tree/main/AR)
+[Briana](https://github.com/bingnaa/bingnaa.github.io/tree/main/AR)
 
-[Xiaoran] (https://github.com/Ran9929/S23-DynamicWebDev-Final-ToDoList-frontend)
+[Xiaoran](https://github.com/Ran9929/S23-DynamicWebDev-Final-ToDoList-frontend)
 
 
 
